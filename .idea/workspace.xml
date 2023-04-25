@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9873f85-940d-45f7-86d1-b0f2fce5db2f" name="变更" comment="1">
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/java/com/zll/gulimall/product/config/MyRedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/java/com/zll/gulimall/product/config/MyRedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/file.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/file.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/registry.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attr-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attr.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attrattrgrouprelation-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attrattrgrouprelation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attrgroup-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/attrgroup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/brand-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/brand.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/category-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/category.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/commentreplay-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/commentreplay.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/productattrvalue-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/productattrvalue.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skuimages-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skuimages.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skuinfo-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skuinfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skusaleattrvalue-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/skusaleattrvalue.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spucomment-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spucomment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuimages-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuimages.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuinfo-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuinfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuinfodesc-add-or-update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/src/views/modules/product/spuinfodesc.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/templates/item.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gulimall-product" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IT\java\maven\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\IT\java\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Oit66hA4F6ZdpxPN11PuOG5mcz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT/vue/vue_project/renren-fast-vue-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e4da85aa57f2eca185b1c93617bab3dd&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\java\java_project\guli\gulimall" />
+      <recent name="D:\IT\java\java_project\guli\gulimall\gulimall-product\src\main\java\com\zll\gulimall\product\vo" />
+      <recent name="D:\IT\java\java_project\guli\gulimall\gulimall-product\src\main\resources" />
+      <recent name="D:\IT\java\java_project\guli\gulimall\gulimall-product\src" />
+      <recent name="D:\IT\java\java_project\guli\gulimall\gulimall-product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GulimallGatewayApplication (1)">
+    <configuration name="GulimallOrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zll.gulimall.order.GulimallOrderApplication" />
+      <module name="gulimall-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zll.gulimall.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zll.gulimall.product.GulimallProductApplication" />
+      <module name="gulimall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zll.gulimall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.coupon.GulimallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.gateway.GulimallGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zll.gulimall.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.member.GulimallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.order.GulimallOrderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zll.gulimall.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimallorder.GulimallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="gulimall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.product.GulimallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimall.ware.GulimallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zll.gulimallware.GulimallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GulimallGatewayApplication (1)" />
+        <item itemvalue="Spring Boot.GulimallOrderApplication (1)" />
+        <item itemvalue="应用程序.GulimallOrderApplication" />
+        <item itemvalue="应用程序.GulimallProductApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootEndpointsTabSettings">
+    <option name="selectedTab" value="beans" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c9873f85-940d-45f7-86d1-b0f2fce5db2f" name="变更" comment="" />
+      <created>1682055051414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682055051414</updated>
+      <workItem from="1682055052821" duration="5132000" />
+      <workItem from="1682210496126" duration="4238000" />
+      <workItem from="1682228984753" duration="1861000" />
+      <workItem from="1682231055218" duration="7643000" />
+      <workItem from="1682296608542" duration="18320000" />
+      <workItem from="1682382950869" duration="374000" />
+      <workItem from="1682383367493" duration="5658000" />
+      <workItem from="1682391381901" duration="3323000" />
+      <workItem from="1682401090725" duration="6427000" />
+      <workItem from="1682411004317" duration="1428000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1682317289510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682317289510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
